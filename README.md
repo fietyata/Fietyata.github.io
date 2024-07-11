@@ -1,7 +1,6 @@
---
---
---
---
+&nbsp;
+&nbsp;
+&nbsp;
 Loremipsum
 
 ## Educations
