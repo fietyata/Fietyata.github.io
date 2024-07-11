@@ -1,6 +1,5 @@
 title: Fietyata Yudha
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+logo: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=6ymFJTYAAAAJ&citpid=9
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
